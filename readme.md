@@ -24,7 +24,7 @@ Developed by Manuel Escobedo 👨‍💻
 
 | Recurso | Postman collection |
 | --- | --- |
-| Addresses | [Descargar](https://drive.google.com/file/d/15jAX9sXjwn360QD1oF4B0Jzdovik0miT/view?usp=sharing) |
+| Addresses | [Descargar](https://drive.google.com/file/d/12a5wSD-odug17dURUUA69Pa57kW4-qL5/view?usp=sharing) |
 | Clients | [Descargar](https://drive.google.com/file/d/1Yz2eac-tXZZqNoSE8_8Hjg2L7s7-5Scs/view?usp=sharing) |
 | FoodTypes | [Descargar](https://drive.google.com/file/d/1tu6UK2-LFiuVdLZ0u55LbXElkljv_b5t/view?usp=sharing) |
 | Menus | [Descargar](https://drive.google.com/file/d/1RYBaDKh2MXfUzhTN3uGMpQOBlHfeRBJ0/view?usp=sharing) |
