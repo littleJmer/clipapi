@@ -51,7 +51,7 @@ const initDB = () => {
                 .sync({ force: false, alter: true })
                 .then(function () {
                     console.log(`<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>`);
-                    console.log('Clip API is ready to be use! 🦄 🎉');
+                    console.log('Clip API is ready to be used! 🦄 🎉');
                     console.log('Developed by Manuel Escobedo 👨‍💻');
                     console.log(`<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>`);
                 })
