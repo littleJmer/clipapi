@@ -1,0 +1,28 @@
+{
+  "name": "clip-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "babel ./src -d ./dist",
+    "dev": "NODE_ENV=development nodemon --inspect=0.0.0.0:9229 -L --exec babel-node src/index.js",
+    "prod": "NODE_ENV=production babel-node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2",
+    "sequelize": "^6.7.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/node": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "nodemon": "^2.0.13"
+  }
+}
